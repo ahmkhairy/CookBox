@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122691769803",
+    "project_id": "cookbox-f0caa",
+    "storage_bucket": "cookbox-f0caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122691769803:android:2da8d47faa62a2f196b2a1",
+        "android_client_info": {
+          "package_name": "com.cookbox.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhFB04rCuM7i0TbAblHt6ELF8_u8r07Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
